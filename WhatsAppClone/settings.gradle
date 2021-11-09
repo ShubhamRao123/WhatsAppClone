@@ -1,0 +1,2 @@
+rootProject.name = "FirstCloneWtsUp"
+include ':app'

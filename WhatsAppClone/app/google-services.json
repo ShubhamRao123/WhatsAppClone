@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580305773286",
+    "project_id": "whtsup-clone",
+    "storage_bucket": "whtsup-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580305773286:android:ac14a7ec80d3631822d127",
+        "android_client_info": {
+          "package_name": "com.example.firstclonewtsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580305773286-9rcd1tuv6ejran64fsfcdfr9o4bbe7ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtGD-DNlXCuvtyvE9dnZWzlqN2bPWlI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580305773286-9rcd1tuv6ejran64fsfcdfr9o4bbe7ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
